@@ -1,6 +1,6 @@
-import React from "react";
-import PropTypes from "prop-types";
-import Header from "./common/Header.jsx";
+import React from 'react';
+import PropTypes from 'prop-types';
+import Header from './common/Header.jsx';
 
 const App = props => (
   <div className="container-fluid">
@@ -10,7 +10,7 @@ const App = props => (
 );
 
 App.propTypes = {
-  children: PropTypes.object.isRequired
+  'children': PropTypes.object.isRequired
 };
 
 export default App;
