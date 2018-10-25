@@ -1,6 +1,6 @@
-# react-starter-app
+# resourcely-app
 
-React base application for the DDC
+React based application for resource management in project teams
 
 ## Usage
 
